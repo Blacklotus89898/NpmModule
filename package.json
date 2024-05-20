@@ -1,5 +1,5 @@
 {
-  "name": "mynpm",
+  "name": "aqweirdpackagename",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -17,3 +17,4 @@
   },
   "homepage": "https://github.com/Blacklotus89898/NpmModule#readme"
 }
+

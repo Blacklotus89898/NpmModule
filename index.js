@@ -2,4 +2,4 @@ function helloNpm() {
     return "hello NPM"
   }
   
-  module.exports = myNpm;
+  module.exports = helloNpm;
